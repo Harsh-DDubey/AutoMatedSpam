@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="carlo.jpg" alt="AutoMatedSpam Banner" width="500"/>
+</p>
+
+
+
+
 # AutoMatedSpam - A Telegram Dice Bot 🎲
 
 A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 whenever someone sends a dice in a specific group. Built with **Hydrogram**, this bot is **fast, efficient, and easy to set up**.  
