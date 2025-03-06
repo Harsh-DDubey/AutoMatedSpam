@@ -2,21 +2,32 @@
   <img src="carlo.jpg" alt="AutoMatedSpam Banner" width="500"/>
 </p>
 
-
-
-
-# AutoMatedSpam - A Telegram Dice Bot 🎲
+# AutoMatedSpam - A Telegram Dice Bot 🎲  
 
 A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 whenever someone sends a dice in a specific group. Built with **Hydrogram**, this bot is **fast, efficient, and easy to set up**.  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&lines=Welcome+to+AutoMatedSpam!;A+Smart+Telegram+Dice+Bot!;Easy+to+Use+and+Deploy!)](https://git.io/typing-svg)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-DDubey&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-DDubey&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
 ## ❄️ Features  
-✔ **Auto-detects dice rolls** in a group and instantly replies with another dice 🎲  
-✔ **Easy setup & deployment** with simple commands  
+1️⃣**Auto-detects dice rolls** in a group and instantly replies with another dice 🎲  
+2️⃣**Easy setup & deployment** with simple commands  
 ---
 
-## 🛠️ Installation & Setup  
+## ⚒️ Installation & Setup  
 
 First, **clone the repository** and navigate to the project directory:  
 ```sh
@@ -55,7 +66,15 @@ python main.py
 - [Python](https://www.python.org/) - Programming Language  
 - [dotenv](https://pypi.org/project/python-dotenv/) - Environment Variable Loader  
 
+---
 
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-DDubey&theme=github" alt="GitHub Activity Graph" />
+</p>
+
+---
 
 ## 📌 License  
 This project is **open-source** and available under the **MIT License**.  
@@ -68,4 +87,5 @@ Have questions? Reach out to me on Telegram!
 
 ---
 
-⭐  **Star the repo** if you like this bot!
+🌟 **Star the repo** if you like this bot!
+
