@@ -18,8 +18,7 @@ TARGET_GROUP_ID = int(os.getenv("TARGET_GROUP_ID"))
 
 @app.on_message(filters.chat(TARGET_GROUP_ID) & filters.dice)
 async def send(c: Client, m: Message):
-    if m.chat.id == TARGET_GROUP_ID:
-        await c.send_dice(TARGET_GROUP_ID, "🎲")
+    await c.send_dice(TARGET_GROUP_ID, "🎲")
 
 if __name__ == "__main__":
     print("Bot started...")
