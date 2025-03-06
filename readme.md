@@ -11,7 +11,7 @@ A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 wheneve
 
 ---
 
-## 🚀 Features  
+## ❄️ Features  
 ✔ **Auto-detects dice rolls** in a group and instantly replies with another dice 🎲  
 ✔ **Easy setup & deployment** with simple commands  
 ---
@@ -44,13 +44,13 @@ python main.py
 
 ---
 
-## 🎮 How It Works?  
+## 🌿 How It Works?  
 1️⃣ A user **sends a 🎲 dice** in the target group.  
 2️⃣ The bot **detects it** and **instantly replies** with another dice.  
 
 ---
 
-## 🤖 Built With  
+## 🍂 Built With  
 - [Hydrogram](https://pypi.org/project/hydrogram/) - Asynchronous Telegram Client  
 - [Python](https://www.python.org/) - Programming Language  
 - [dotenv](https://pypi.org/project/python-dotenv/) - Environment Variable Loader  
@@ -68,4 +68,4 @@ Have questions? Reach out to me on Telegram!
 
 ---
 
-🔥 **Star the repo** if you like this bot! ⭐  
+⭐  **Star the repo** if you like this bot!
