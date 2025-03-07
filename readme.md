@@ -23,12 +23,13 @@ A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 wheneve
 ---
 
 ## ❄️ Features  
-1️⃣**Auto-detects dice rolls** in a group and instantly replies with another dice 🎲  
-2️⃣**Easy setup & deployment** with simple commands  
+1⃣**Auto-detects dice rolls** in a group and instantly replies with another dice 🎲  
+2⃣**Easy setup & deployment** with simple commands  
 ---
 
 ## ⚒️ Installation & Setup  
 
+### Installation on PC/Linux  
 First, **clone the repository** and navigate to the project directory:  
 ```sh
 git clone https://github.com/Harsh-DDubey/AutoMatedSpam.git  
@@ -53,11 +54,45 @@ Finally, **run the bot** with:
 python main.py  
 ```  
 
+### Installation on Termux  
+If you are using Termux, follow these steps:  
+
+1. **Update and install dependencies:**  
+```sh
+pkg update && pkg upgrade -y  
+pkg install python git -y  
+pip install --upgrade pip  
+```
+
+2. **Clone the repository and navigate to it:**  
+```sh
+git clone https://github.com/Harsh-DDubey/AutoMatedSpam.git  
+cd AutoMatedSpam  
+```
+
+3. **Install required Python packages:**  
+```sh
+pip install -r requirements.txt  
+```
+
+4. **Set up environment variables:**  
+```sh
+echo "API_HASH=your_api_hash" > .env  
+echo "API_ID=your_api_id" >> .env  
+echo "SESSION_STRING=your_session_string" >> .env  
+echo "TARGET_GROUP_ID=your_target_group_id" >> .env  
+```
+
+5. **Run the bot:**  
+```sh
+python main.py  
+```
+
 ---
 
 ## 🌿 How It Works?  
-1️⃣ A user **sends a 🎲 dice** in the target group.  
-2️⃣ The bot **detects it** and **instantly replies** with another dice.  
+1⃣ A user **sends a 🎲 dice** in the target group.  
+2⃣ The bot **detects it** and **instantly replies** with another dice.  
 
 ---
 
