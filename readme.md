@@ -27,13 +27,16 @@ A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 wheneve
 2⃣**Easy setup & deployment** with simple commands  
 ---
 
-## 💧 Session String Generator  
+
+---
+## Session String Generator  
 To run this bot, you need a **Telegram session string**. Use my **SessionString** repository to generate one easily:  
 
-[**SessionString Repo**](https://github.com/Harsh-DDubey/SessionString)  
+[**SessionString Repo**](https://github.com/Harsh-DDubey/StringSession)  
 
 Follow the instructions in the repository to generate your session string and use it in the `.env` file.  
 
+---
 
 ## ⚒️ Installation & Setup  
 
