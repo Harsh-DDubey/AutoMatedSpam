@@ -6,8 +6,6 @@
 
 A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 whenever someone sends a dice in a specific group. Built with **Hydrogram**, this bot is **fast, efficient, and easy to set up**.  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FF0000&lines=Welcome+to+AutoMatedSpam!;A+Smart+Telegram+Dice+Bot!;Easy+to+Use+and+Deploy!)](https://git.io/typing-svg)
-
 ---
 
 ## 📊 GitHub Stats  
@@ -23,8 +21,8 @@ A powerful **Telegram userbot** that **automatically rolls a dice** 🎲 wheneve
 ---
 
 ## ❄️ Features  
-1⃣**Auto-detects dice rolls** in a group and instantly replies with another dice 🎲  
-2⃣**Easy setup & deployment** with simple commands  
+1⃣ **Auto-detects dice rolls** in a group and instantly replies with another dice 🎲  
+2⃣ **Easy setup & deployment** with simple commands  
 ---
 
 
