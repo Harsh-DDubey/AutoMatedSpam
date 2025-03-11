@@ -64,6 +64,7 @@ Finally, **run the bot** with:
 ```sh
 python main.py  
 ```  
+---
 
 ### Installation on Termux  
 If you are using Termux, follow these steps:  
